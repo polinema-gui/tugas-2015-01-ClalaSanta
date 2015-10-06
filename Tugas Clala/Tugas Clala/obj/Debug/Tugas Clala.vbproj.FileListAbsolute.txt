@@ -1,0 +1,10 @@
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\bin\Debug\Tugas Clala.exe.config
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\bin\Debug\Tugas Clala.exe
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\bin\Debug\Tugas Clala.pdb
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\bin\Debug\Tugas Clala.xml
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\obj\Debug\Tugas_Clala.Form1.resources
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\obj\Debug\Tugas_Clala.Resources.resources
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\obj\Debug\Tugas Clala.vbproj.GenerateResource.Cache
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\obj\Debug\Tugas Clala.exe
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\obj\Debug\Tugas Clala.xml
+c:\users\clala\documents\visual studio 2012\Projects\Tugas Clala\Tugas Clala\obj\Debug\Tugas Clala.pdb
